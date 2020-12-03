@@ -1,0 +1,10 @@
+C:\Coding\aa\obj\Debug\aa.csprojAssemblyReference.cache
+C:\Coding\aa\obj\Debug\aa.Form1.resources
+C:\Coding\aa\obj\Debug\aa.Properties.Resources.resources
+C:\Coding\aa\obj\Debug\aa.csproj.GenerateResource.cache
+C:\Coding\aa\obj\Debug\aa.csproj.CoreCompileInputs.cache
+C:\Coding\aa\bin\Debug\aa.exe.config
+C:\Coding\aa\bin\Debug\aa.exe
+C:\Coding\aa\bin\Debug\aa.pdb
+C:\Coding\aa\obj\Debug\aa.exe
+C:\Coding\aa\obj\Debug\aa.pdb
