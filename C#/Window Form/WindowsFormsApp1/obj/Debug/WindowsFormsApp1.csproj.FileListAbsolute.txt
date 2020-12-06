@@ -1,0 +1,10 @@
+C:\CodingResources\C#\Window Form\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\CodingResources\C#\Window Form\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\CodingResources\C#\Window Form\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\CodingResources\C#\Window Form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\CodingResources\C#\Window Form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\CodingResources\C#\Window Form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\CodingResources\C#\Window Form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\CodingResources\C#\Window Form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\CodingResources\C#\Window Form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\CodingResources\C#\Window Form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMessageBox.resources

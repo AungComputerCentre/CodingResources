@@ -1,0 +1,13 @@
+C:\CodingResources\Console Class\Boook\bin\Debug\netcoreapp3.1\Boook.exe
+C:\CodingResources\Console Class\Boook\bin\Debug\netcoreapp3.1\Boook.deps.json
+C:\CodingResources\Console Class\Boook\bin\Debug\netcoreapp3.1\Boook.runtimeconfig.json
+C:\CodingResources\Console Class\Boook\bin\Debug\netcoreapp3.1\Boook.runtimeconfig.dev.json
+C:\CodingResources\Console Class\Boook\bin\Debug\netcoreapp3.1\Boook.dll
+C:\CodingResources\Console Class\Boook\bin\Debug\netcoreapp3.1\Boook.pdb
+C:\CodingResources\Console Class\Boook\obj\Debug\netcoreapp3.1\Boook.csprojAssemblyReference.cache
+C:\CodingResources\Console Class\Boook\obj\Debug\netcoreapp3.1\Boook.AssemblyInfoInputs.cache
+C:\CodingResources\Console Class\Boook\obj\Debug\netcoreapp3.1\Boook.AssemblyInfo.cs
+C:\CodingResources\Console Class\Boook\obj\Debug\netcoreapp3.1\Boook.csproj.CoreCompileInputs.cache
+C:\CodingResources\Console Class\Boook\obj\Debug\netcoreapp3.1\Boook.dll
+C:\CodingResources\Console Class\Boook\obj\Debug\netcoreapp3.1\Boook.pdb
+C:\CodingResources\Console Class\Boook\obj\Debug\netcoreapp3.1\Boook.genruntimeconfig.cache
